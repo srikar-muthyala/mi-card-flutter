@@ -1,0 +1,6 @@
+File-> Settings (ctrl+alt+s)
+Languages and Frameworks -> Dart
+Check "Enable Dart support for the project..."
+In "Dart SDK path" click in "..." and navigate to flutter SDK directory. Under that directory you'll find "bin/cache/dart-sdk". This is the dart sdk path you should use.
+Click "Apply"
+Close the project and open it again (sometimes you need this step, sometimes doesn't)
